@@ -13,7 +13,7 @@ export default function Home() {
           <div className="space-y-4 text-stone-700 dark:text-stone-300 text-lg leading-relaxed">
             <p>Привет! Меня зовут Нурдаулет...</p>
             <p>Я увлечён созданием современных веб-приложений...</p>
-            <p>Люблю изучать новые технологии...</p>
+           
             <p>В свободное время интересуюсь дизайном...</p>
           </div>
         </section>
